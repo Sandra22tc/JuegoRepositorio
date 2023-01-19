@@ -4,15 +4,56 @@ using UnityEngine;
 
 public class RayCastJump : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    bool booler;
+
+    RaycastHit2D rchit;
+    [SerializeField] float distance;
+
+
+    private void Start()
     {
+        rchit = Physics2D.Raycast(gameObject.transform.position, Vector2.down, distance);
+        if(rchit.collider != null)
+        {
+            Debug.DrawRay(gameObject.transform.position, Vector2.down * distance, Color.green);
+            booler = true;
+        }
         
+        if(rchit.collider == null)
+        {
+            Debug.DrawRay(gameObject.transform.position, Vector2.down * distance, Color.red);
+            booler = false;
+        }
+
+        if (booler)
+        {
+            if(booler == true)
+            {
+                
+            }
+        }
+
+
+
+
+
+
+
+
+
     }
 
-    // Update is called once per frame
+ 
     void Update()
     {
+      
         
+
+
+
+
+
+
+
     }
 }

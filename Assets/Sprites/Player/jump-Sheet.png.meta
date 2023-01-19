@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0b3104d6e9fe8674897dc062a16c8146
+guid: dabfbb31b9d99e74d9b2cde9af953450
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,127 +104,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FichaSprites_17
+      name: jump-Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 316
-        width: 60
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 15
+        y: 12
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e43948178c9b84d4b979c31dbb86f269
-      internalID: -1991748958
+      spriteID: 7f1d3df174c4d2b40acb90eac13b9500
+      internalID: -903014832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FichaSprites_18
+      name: jump-Sheet_4
       rect:
         serializedVersion: 2
-        x: 65
-        y: 317
-        width: 54
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 317
+        y: 12
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e47766cdcb919274e84577cb59876c37
-      internalID: -571294391
+      spriteID: 3f20a904531eeca44802ee253f4fb76e
+      internalID: 299003413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FichaSprites_19
+      name: jump-Sheet_6
       rect:
         serializedVersion: 2
-        x: 125
-        y: 317
-        width: 55
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 415
+        y: 19
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8646f1dc461d6144803b571fcf721ef
-      internalID: -1626406671
+      spriteID: a27cfeb1d57c49042b25f35fccd2cd51
+      internalID: 1443892225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FichaSprites_20
+      name: jump-Sheet_7
       rect:
         serializedVersion: 2
-        x: 186
-        y: 317
-        width: 53
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 515
+        y: 28
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2a4895cb89ae494787d4694d7e740cd
-      internalID: -1092324517
+      spriteID: 37566e418631cc74b8ea4b0853889247
+      internalID: 2125468141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FichaSprites_21
+      name: jump-Sheet_8
       rect:
         serializedVersion: 2
-        x: 255
-        y: 324
-        width: 50
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 116
+        y: 12
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0fd5f28139d60a488c5a23761491bd7
-      internalID: 945912512
+      spriteID: 61eab0eaf919ad249b560db3b6c10be7
+      internalID: -748768433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FichaSprites_22
+      name: jump-Sheet_9
       rect:
         serializedVersion: 2
-        x: 312
-        y: 317
-        width: 52
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 216
+        y: 12
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b986d8f4568abcd4694adfad1e97f122
-      internalID: -1387151883
+      spriteID: 00253f99fe3edcf4a83455df0f4d95ea
+      internalID: 1541244773
       vertices: []
       indices: 
       edges: []
@@ -240,36 +240,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FichaSprites_15: 188079033
-      FichaSprites_13: -1183857302
-      FichaSprites_4: -2065126952
-      FichaSprites_19: -1626406671
-      FichaSprites_9: 1489772870
-      FichaSprites_11: -38275579
-      FichaSprites_22: -1387151883
-      FichaSprites_26: -379834717
-      FichaSprites_7: -1013888632
-      FichaSprites_17: -1991748958
-      FichaSprites_10: -333553782
-      FichaSprites_21: 945912512
-      FichaSprites_1: 1240166197
-      FichaSprites_25: -1608578252
-      FichaSprites_28: -900247522
-      FichaSprites_27: 1225270255
-      FichaSprites_20: -1092324517
-      FichaSprites_3: -809897920
-      FichaSprites_23: 1017710252
-      FichaSprites_16: -59241175
-      FichaSprites_24: 2105683209
-      FichaSprites_6: -1180968177
-      FichaSprites_2: 1192057500
-      FichaSprites_14: 943475764
-      FichaSprites_5: 1779092284
-      FichaSprites_8: 675174643
-      FichaSprites_12: 30322742
-      FichaSprites_18: -571294391
-      FichaSprites_29: -771734597
-      FichaSprites_0: -503170413
+      jump-Sheet_4: 299003413
+      jump-Sheet_6: 1443892225
+      jump-Sheet_1: 2120096439
+      jump-Sheet_8: -748768433
+      jump-Sheet_0: -903014832
+      jump-Sheet_5: -1040870934
+      jump-Sheet_9: 1541244773
+      jump-Sheet_2: -561451714
+      jump-Sheet_3: 221521939
+      jump-Sheet_7: 2125468141
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

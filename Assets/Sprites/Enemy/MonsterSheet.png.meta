@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c09c142046962394dacb25cd214f06e5
+guid: c6e09a6e30207fd4780c3811bcfeab10
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,148 +104,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Die_23
+      name: MonsterSheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 203
-        width: 59
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1
+        y: 13
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3668dcfb49c2e2e40923da166cd68aec
-      internalID: -726318595
+      spriteID: 098ed6938a5676242b65d8038681614f
+      internalID: 1128908106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Die_24
+      name: MonsterSheet_1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 203
-        width: 54
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 26
+        y: 14
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f58bc89a2749c848b56e218da1e8c72
-      internalID: -988109098
+      spriteID: 1fcdca6693b05d34993150e0464080a1
+      internalID: -600302931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Die_25
+      name: MonsterSheet_2
       rect:
         serializedVersion: 2
-        x: 139
-        y: 203
-        width: 48
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 51
+        y: 13
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92ac2031bce63a444a77b4f164de2248
-      internalID: 923964348
+      spriteID: d53dafc1e600763428b6f9afb37b27e6
+      internalID: -407514130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Die_26
+      name: MonsterSheet_3
       rect:
         serializedVersion: 2
-        x: 204
-        y: 203
-        width: 41
-        height: 19
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 76
+        y: 14
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b049b0d71b316f4d92ebd7fd75f0329
-      internalID: 91948539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Die_27
-      rect:
-        serializedVersion: 2
-        x: 265
-        y: 203
-        width: 35
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47f35afc61cf8644da8ab8dac60a412b
-      internalID: 1165423447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Die_28
-      rect:
-        serializedVersion: 2
-        x: 317
-        y: 203
-        width: 34
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a3e8f4be3e64324b80533b7bd2ae2f0
-      internalID: 388198632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Die_29
-      rect:
-        serializedVersion: 2
-        x: 380
-        y: 203
-        width: 33
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19e70a8989140324ca959408caf3ef56
-      internalID: -603905819
+      spriteID: 6edb8e182a6fa3641b1ef0d3740c03e4
+      internalID: 1356285326
       vertices: []
       indices: 
       edges: []
@@ -261,36 +198,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Die_5: -861986302
-      Die_18: 1437104815
-      Die_0: 2020164571
-      Die_28: 388198632
-      Die_19: 1126641002
-      Die_13: 1749032922
-      Die_3: -1467388883
-      Die_20: -217799627
-      Die_27: 1165423447
-      Die_26: 91948539
-      Die_16: -1698214753
-      Die_24: -988109098
-      Die_23: -726318595
-      Die_21: 255126998
-      Die_9: -8859072
-      Die_1: -402989960
-      Die_2: -646281436
-      Die_12: -608630039
-      Die_17: 413291868
-      Die_6: -1868226587
-      Die_29: -603905819
-      Die_7: -1031595225
-      Die_11: -732758928
-      Die_25: 923964348
-      Die_14: -1574740772
-      Die_4: 1195693510
-      Die_15: -435914148
-      Die_8: 1878595435
-      Die_10: 1175267298
-      Die_22: -1483750998
+      MonsterSheet_2: -407514130
+      MonsterSheet_0: 1128908106
+      MonsterSheet_3: 1356285326
+      MonsterSheet_1: -600302931
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
