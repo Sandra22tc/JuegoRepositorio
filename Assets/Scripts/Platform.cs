@@ -13,6 +13,8 @@ public class Platform : MonoBehaviour
 
     private Vector3 MoveTo;
 
+    public float scaleFactor = 1.5f;
+
     void Start()
     {
         MoveTo = EndPoint.position;
@@ -23,7 +25,7 @@ public class Platform : MonoBehaviour
     {
         ObjectToMove.transform.position = Vector3.MoveTowards(ObjectToMove.transform.position, MoveTo, velocity * Time.deltaTime);
 
-        if(ObjectToMove.transform.position == EndPoint.position)
+        if (ObjectToMove.transform.position == EndPoint.position)
         {
             MoveTo = StartPoint.position;
         }
@@ -32,5 +34,11 @@ public class Platform : MonoBehaviour
         {
             MoveTo = EndPoint.position;
         }
+
+        {
+            transform.localScale = new Vector3(scaleFactor, scaleFactor, scaleFactor);
+
+        }
     }
 }
+

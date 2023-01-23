@@ -10,7 +10,7 @@ public class RayCastJump : MonoBehaviour
     [SerializeField] float distance;
 
 
-    private void Start()
+    private void Update()
     {
         rchit = Physics2D.Raycast(gameObject.transform.position, Vector2.down, distance);
         if(rchit.collider != null)
@@ -34,26 +34,6 @@ public class RayCastJump : MonoBehaviour
         }
 
 
-
-
-
-
-
-
-
     }
 
- 
-    void Update()
-    {
-      
-        
-
-
-
-
-
-
-
-    }
 }
